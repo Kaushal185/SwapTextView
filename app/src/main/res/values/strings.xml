@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticeSet</string>
+    <string name = "Fname">Kaushal</string>
+    <string name = "Lname">Kawade</string>
+    <string name = "swap">Swap</string>
+    <string name = "result">Result</string>
+    <string name = "concat">Concat</string>
+
+</resources>
